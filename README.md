@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 <a href="http://www.github.com/davidalimazo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vickkykruz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### **Top Languages**
-<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickkykruz&langs_count=8&theme=radical"></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickkykruz&layout=compact&langs_count=8&theme=radical"></a>
