@@ -1,54 +1,53 @@
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is **Victor Chukwuemeka**
+### Hi, I'm **Victor Chukwuemeka** 👋  
 
-### Full Stack Developer
+**Full‑Stack / Backend Software Engineer (Python & JavaScript) · MSc Computer Networking & Cyber Security (London)**  
 
-<!--
-**vickkykruz/vickkykruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
--->
-- 🌍  I'm based in Ikorodu, Lagos, Nigeria
-- 🔭 I’m current running a programm at ALX as a student 
-- 🌱 I’m currently learning Angular and Firebase
-- 🤝  I'm open to collaborating on Frontend and Backend Projects that impact society
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about anything related to the Fontend and Backend of an application
-- 📫 How to reach me: <a href="mailto:onwuegbuchulemvic02@gmail.com">onwuegbuchulemvic02@gmail.com</a> and <a href="tel:+2349055302687">Call me on +234-905-350-2687</a>
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 🌍 Based in London, UK (originally from Lagos, Nigeria)  
+- 💻 5+ years building web applications (LMS, payment portals, voting & quiz platforms)  
+- 🐍 Working mainly with **Python (Flask/Django)**, **JavaScript/Node.js**, and SQL databases  
+- ☁️ Comfortable with **Linux, Docker, Nginx, AWS/Azure basics**  
+- 📚 Currently deepening my networking & cyber security skills during my MSc  
+- 🤝 Open to collaborating on backend APIs, full‑stack apps, and tools that solve real problems  
+- 📫 Reach me: **onwuegbuchulemvic02@gmail.com** · [LinkedIn](YOUR_LINKEDIN_URL)  
 
-### Socials
+---
 
-<p align="left"> <a href="#https://www.dev.to/davidalimazo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/VickkyKruz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/victor.onwuegbuchulem.7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/vickkykruz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/onwuegbuchulem_victor?igshid=ZDdkNTZiNTM=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/edward-victor-53097324a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="#https://www.stackoverflow.com/users/davidalimazo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/KruzVickky?t=QnRUDKLgBRAdYSU3LsZqA&s=09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="#https://www.youtube.com/c/aydmedia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </a><a href="https://www.reddit.com/u/vickkyKruz?utm_medium=android_app&utm_source=share" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/OIP.YRHjwrZDTPRu5qIHBASY1QHaHa?w=183&h=183&c=7&r=0&o=5&pid=1.7" width="32" height="32"></a></p>
+### 🛠 Tech Stack
 
-### Skills
+**Backend:**  
+![Python](https://skillicons.dev/icons?i=python) ![Django](https://skillicons.dev/icons?i=django) ![Flask](https://skillicons.dev/icons?i=flask) ![NodeJS](https://skillicons.dev/icons?i=nodejs)  
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/PHP" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Angular-Dark.svg" width="36" height="36" alt="Angular"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/PHP" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php.svg" width="36" height="36" alt="PHP"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Laravel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+**Frontend:**  
+![JS](https://skillicons.dev/icons?i=js) ![TS](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Angular](https://skillicons.dev/icons?i=angular) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)  
 
-### **Github Stats**
-<a href=""><img src="https://github-readme-stats.vercel.app/api?username=vickkykruz&count_private=true&show_icons=true&theme=radical" alt="github stats"></a>
+**Databases & Cloud:**  
+![MySQL](https://skillicons.dev/icons?i=mysql) ![Postgres](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Firebase](https://skillicons.dev/icons?i=firebase) ![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure)  
 
-### **Github Activity**
-<a href="http://www.github.com/davidalimazo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vickkykruz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+**DevOps & Tools:**  
+![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux) ![Nginx](https://skillicons.dev/icons?i=nginx) ![Git](https://skillicons.dev/icons?i=git) ![Figma](https://skillicons.dev/icons?i=figma)  
 
-### **Top Languages**
-<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickkykruz&layout=compact&langs_count=8&theme=radical"></a>
+---
+
+### 🚀 Highlight Projects
+
+- **Learning Management System (LMS)** – Flask, SQLAlchemy, MySQL, Redis, Nginx  
+  - Multi‑role LMS used by 300+ users (students & staff), with improved performance via caching.  
+
+- **Payment & Dues Portal** – Python backend, JS frontend, SQL  
+  - Helped improve dues collection and automate parts of the payment process.  
+
+- **Online Voting & Quiz Platform** – Python, JS, SQL  
+  - Secure platform for 200+ members, with real‑time results and audit trails.  
+
+
+---
+
+### 📊 GitHub Stats
+
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickkykruz&count_private=true&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickkykruz&layout=compact&langs_count=8&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vickkykruz&theme=dark&hide_border=true)  
